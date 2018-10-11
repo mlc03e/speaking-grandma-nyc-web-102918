@@ -1,5 +1,5 @@
-def speak_to_grandma(phrase = "HUH?! SPEAK UP, SONYY!")
-    puts phrase
+def speak_to_grandma(phrase)
+    puts "HUH?! SPEAK UP, SONYY!"
  end
     # Write a speak_to_grandma method.
 
