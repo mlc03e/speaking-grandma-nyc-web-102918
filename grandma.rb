@@ -1,4 +1,8 @@
-# Write a speak_to_grandma method.
+
+ if upcase
+   puts "NO, NOT SINCE 1938!"
+ end
+    # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
