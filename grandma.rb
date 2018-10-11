@@ -1,4 +1,4 @@
-
+def speak_to_grandma(phrase = "HUH?! SPEAK UP, SONYY!")
  if upcase
    puts "NO, NOT SINCE 1938!"
  end
